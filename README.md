@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @KaschPlayz, I'm a 18y old German
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Python
-- 🤝 I'm looking for a learning partner
+- 👋 Hi, I’m @KaschPlayz, I'm a 20y old German
+- 👀 I’m interested in Python programming
 - 🕰 I'm started with programming this year
 
 <!---
